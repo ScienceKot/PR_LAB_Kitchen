@@ -1,0 +1,37 @@
+[
+  {
+    "id" : 1,
+    "rank" : 2,
+    "proficiency" : 1,
+    "name" : "John",
+    "catch_phrase" : "Ok, I will make it!"
+  },
+  {
+    "id" : 2,
+    "rank" : 2,
+    "proficiency" : 2,
+    "name" : "Emily",
+    "catch_phrase" : "Ok, I will make it!"
+  },
+  {
+    "id" : 3,
+    "rank" : 1,
+    "proficiency" : 3,
+    "name" : "Albert",
+    "catch_phrase" : "Ok, I will make it!"
+  },
+  {
+    "id" : 4,
+    "rank" : 3,
+    "proficiency" : 4,
+    "name" : "Ben",
+    "catch_phrase" : "Ok, I will make it!"
+  },
+  {
+    "id" : 5,
+    "rank" : 1,
+    "proficiency" : 2,
+    "name" : "Kevin",
+    "catch_phrase" : "Ok, I will make it!"
+  }
+]
